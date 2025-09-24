@@ -1,0 +1,27 @@
+{
+  "name": "pizza-landing-page",
+  "version": "1.0.0",
+  "description": "Hello!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaxtqzz/pizza-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lukaxtqzz/pizza-landing-page/issues"
+  },
+  "homepage": "https://github.com/lukaxtqzz/pizza-landing-page#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {
+    "sass": "^1.92.1"
+  }
+}
